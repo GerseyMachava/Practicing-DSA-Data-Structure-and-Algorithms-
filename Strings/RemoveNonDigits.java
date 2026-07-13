@@ -1,3 +1,5 @@
+
+
 public class RemoveNonDigits {
 
     public static String removeNonDigits(String str) {
@@ -12,7 +14,7 @@ public class RemoveNonDigits {
         return newString;
     }
 
-    //Mais eficiente
+    // Mais eficiente
     public static String removeNonDigits2(String str) {
         StringBuilder sb = new StringBuilder();
         for (char c : str.toCharArray()) {

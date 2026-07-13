@@ -1,3 +1,4 @@
+
 public class ExtractEmailInformation {
 
     public  static void extractEmailInformation(String str) {

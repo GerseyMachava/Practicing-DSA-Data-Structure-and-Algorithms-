@@ -1,3 +1,4 @@
+
 public class ValidatePassword {
 
     public static boolean validatePassword(String str) {
