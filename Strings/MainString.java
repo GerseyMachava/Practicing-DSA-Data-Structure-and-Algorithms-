@@ -12,8 +12,8 @@ public class MainString {
 
         // System.out.println(ValidatePassword.validatePassword("amerca1@"));
         // System.out.println(RemoveNonDigits.removeNonDigits("874.092.172-93"));
-        String[] strArr = { "ab", "abc", "abcd" };
-        System.out.println(LongestCommonPrefix.longestCommonPrefix(strArr));
+        String[] strArr = { "alice,20,800,mtv","alice,50,1200,mtv" };
+        System.out.println(InvalidTransactions.invalidTransactions(strArr));
 
     }
 
