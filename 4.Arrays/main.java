@@ -1,7 +1,7 @@
 public class main {
 
     public static void main(String[] args) {
-
+ 
         Seller[] sellers = {
                 new Seller("Barry Allen", 18196),
                 new Seller("Logan", 4255.0),
